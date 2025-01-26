@@ -32,9 +32,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 ## Insights Deep-Dive
 1. Overall Business Performance
 2. Campaign-Level ROMI Analysis
-3. Campaign Performance Over Time
-4. Buyer Activity Patterns
-5. Campaign Type Effectiveness
+4. Campaign Type Effectiveness
 6. Geolocation Targeting Analysis
 7. Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
    
@@ -74,6 +72,52 @@ Campaign Optimization:
   
 ![image](https://github.com/user-attachments/assets/a8560832-2d95-43f4-899e-6d0d135efc5a)
 
+### Campaign Type Effectiveness
+**Influencer Marketing:**
+- High ROMI (154.29) indicates a very strong return on investment.
+- High CPC (11.07) suggests that attracting clicks through influencer campaigns is relatively expensive.
+- High CPL (490.31) and CAC (2755.58) indicate that acquiring leads and customers through influencer campaigns is costly.
+- Despite the high costs, the strong ROMI and high total revenue suggest that influencer campaigns are effective in generating significant revenue.
+  
+**Media:**
+- Moderate ROMI (22.41) indicates a reasonable return on investment.
+- Moderate CPC (11.97) and CPL (495.29) suggest that attracting clicks and generating leads through media campaigns have moderate costs.
+- CAC (3209.88) is higher than for influencer campaigns, indicating a higher cost per customer acquisition.
+  
+**Search:**
+- Low ROMI (7.07) suggests that search campaigns are not generating a high return on investment.
+- Relatively low CPC (10.48) and CPL (486.90) indicate that attracting clicks and generating leads through search campaigns are less expensive compared to influencer and media campaigns.
+- CAC (4179.23) is relatively high, indicating a higher cost per customer acquisition.
+
+**Social:**
+- Negative ROMI (-13.68) indicates that social media campaigns are not generating enough revenue to cover their costs.
+- Moderate CPC (9.20) and CPL (439.67) suggest that attracting clicks and generating leads through social media campaigns have moderate costs.
+- CAC (5236.62) is relatively high, indicating a high cost per customer acquisition.
+
+![image](https://github.com/user-attachments/assets/ac7bc199-ce5b-41e6-9498-36d95b732079)
+
+**Analysis of Clicks, Leads, and Orders:**
+- Influencer: High total_clicks (749,973) and a relatively high total_leads (16,939) suggest that influencer campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (3014 orders out of 16,939 leads) seems relatively low.
+- Media: High total_clicks (420,003) and total_leads (10,149) suggest that media campaigns are also effective in driving traffic and generating leads. The conversion rate from leads to orders (1566 orders out of 10,149 leads) is also moderate.
+- Search: High total_clicks (330,054) and total_leads (7107) suggest that search campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (828 orders out of 7107 leads) is relatively low.
+- Social: High total_clicks (1,499,889) and total_leads (31,384) suggest that social media campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (2635 orders out of 31,384 leads) is low, which contributes to the negative ROMI.
+
+### Geolocation Targeting Analysis
+- Tier 1 cities demonstrate significantly better performance with a total revenue of 6,940,536, a positive gross profit of 1,810,465.27, and a strong positive ROMI of 35.29%. This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
+- Tier 2 cities show significantly lower performance with a total revenue of 4,133,766, a negative gross profit of -1,626,258.72, and a negative ROMI of -28.23%. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
+
+**Recommendations:**
+- Prioritize Tier 1 Cities: Continue to prioritize marketing efforts in Tier 1 cities, as they have shown strong performance and profitability.
+- Re-evaluate Tier 2 Strategies:
+  - Analyze and refine targeting criteria for Tier 2 cities.
+  - Re-evaluate messaging and creative to better resonate with the target audience in Tier 2 cities.
+  - Consider adjusting budgets and allocating more resources to Tier 1 cities.
+  - Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
+
+![image](https://github.com/user-attachments/assets/17ed037f-9c59-4e33-a18f-872a2d572e1f)
+
+
+## Additional Insights
 ### Campaign Performance Overtime
 - The average daily revenue across all campaigns was $1,531,763, with the highest revenue recorded at $5,261,521 (on February 20, 2021) and the lowest at $42,789.
 - On average, campaigns spent $1,092,531 on advertising per day. The highest spend occurred on February 20, 2021, with a total of $3,499,171, while the lowest was only $28,903.
@@ -98,28 +142,6 @@ Steady AOV: The consistency in average order values ($5,395 on average) suggests
 
 ![image](https://github.com/user-attachments/assets/747d28ee-e872-477b-95b2-e23a99e41ba6)
 
-### Buyer Activity Patterns
-Weekday vs Weekend Performance:
-- Average Revenue: Weekdays show a slightly higher average revenue per transaction (141914.24) compared to weekends (132593.56).
-- Total Revenue: Weekdays generate significantly higher total revenue (31221133) than weekends (11668233), indicating higher transaction volume on weekdays.
-- ROMI: Weekends show a slightly higher average ROMI (42.26) compared to weekdays (39.45), suggesting that weekend marketing efforts are more efficient in generating returns.
 
-![image](https://github.com/user-attachments/assets/6dfa1d28-7026-4332-b0c7-d9e87d880487)
-
-
-Campaign Performance:
-- Top Performers:
-  - Youtube_blogger: Consistently ranks high with the highest total revenue, gross profit, and ROMI across both weekdays and weekends. This indicates strong overall campaign performance and high return on investment.
-  - Instagram_tier1 and Instagram_blogger: Also show strong performance across both weekdays and weekends, with high total revenue and positive ROMI.
-    
-- Underperformers:
-  - Facebook campaigns (retargeting, tier1, tier2, and lal) consistently underperform with low total revenue, negative gross profit, and negative ROMI. This suggests significant issues with these campaigns, potentially related to targeting, ad creatives, or overall strategy.
-    
-Campaign Effectiveness:
-- Youtube_blogger Dominance: This campaign consistently outperforms across all metrics, indicating a highly effective and profitable strategy.
-- Instagram Strength: Instagram campaigns (tier1 and blogger) show consistent positive results, suggesting a strong market presence and engagement.
-- Facebook Campaign Issues: Facebook campaigns, particularly retargeting, tier1, tier2, and lal, consistently underperform with negative gross profit and low ROMI. This suggests significant issues with these campaigns, potentially related to targeting, ad creatives, or overall strategy.
-
-![image](https://github.com/user-attachments/assets/c21add40-5703-45c8-a7bc-59f8975aecf6)
 
 
