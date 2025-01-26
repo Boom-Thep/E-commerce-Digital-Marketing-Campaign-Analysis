@@ -98,4 +98,48 @@ Steady AOV: The consistency in average order values ($5,395 on average) suggests
 
 ![image](https://github.com/user-attachments/assets/747d28ee-e872-477b-95b2-e23a99e41ba6)
 
+### Buyer Activity Patterns
+Weekday vs Weekend Performance:
+- Average Revenue: Weekdays show a slightly higher average revenue per transaction (141914.24) compared to weekends (132593.56).
+- Total Revenue: Weekdays generate significantly higher total revenue (31221133) than weekends (11668233), indicating higher transaction volume on weekdays.
+- ROMI: Weekends show a slightly higher average ROMI (42.26) compared to weekdays (39.45), suggesting that weekend marketing efforts are more efficient in generating returns.
+
+![image](https://github.com/user-attachments/assets/6dfa1d28-7026-4332-b0c7-d9e87d880487)
+
+
+Campaign Performance:
+- Top Performers:
+  - Youtube_blogger: Consistently ranks high with the highest total revenue, gross profit, and ROMI across both weekdays and weekends. This indicates strong overall campaign performance and high return on investment.
+  - Instagram_tier1 and Instagram_blogger: Also show strong performance across both weekdays and weekends, with high total revenue and positive ROMI.
+    
+- Underperformers:
+  - Facebook campaigns (retargeting, tier1, tier2, and lal) consistently underperform with low total revenue, negative gross profit, and negative ROMI. This suggests significant issues with these campaigns, potentially related to targeting, ad creatives, or overall strategy.
+    
+Weekday Performance:
+- Top Performers:
+  - youtube_blogger: Highest total revenue (11,272,578), gross profit (8,114,364.59), and highest ROMI (256.93).
+  - instagram_blogger: High total revenue (4,603,392) and positive gross profit (1,227,073.37).
+  - instagram_tier1: High total revenue (3,004,071) and positive gross profit (1,323,087.38).
+    
+- Underperformers:
+  - facebook_lal: Lowest total revenue (231,436), negative gross profit (-1,001,550.45), and extremely low ROMI (-88.47).
+  - facebook_retargeting: Low total revenue (373,179), negative gross profit (-200,268.48), and low ROMI (-28.11).
+
+Weekend Performance:
+- Top Performers:
+  - youtube_blogger: Highest total revenue (4,038,855), gross profit (3,139,131.90), and highest ROMI (348.90).
+  - instagram_tier1: High total revenue (1,540,053) and positive gross profit (655,759.37).
+  - instagram_blogger: High total revenue (1,205,062) and positive gross profit (334,013.06).
+    
+- Underperformers:
+  - facebook_lal: Lowest total revenue (68,797), negative gross profit (-527,794.05), and extremely low ROMI (-88.47).
+  - facebook_tier2: Low total revenue (227,425), negative gross profit (-189,974.53), and low ROMI (-45.51).
+
+Interpretation
+- Buyer Activity: This data suggests that buyers might be more active during weekdays, leading to higher transaction volumes and overall revenue. However, weekends seem to be more efficient in terms of marketing spend, generating higher returns per dollar spent.
+
+Campaign Effectiveness:
+- Youtube_blogger Dominance: This campaign consistently outperforms across all metrics, indicating a highly effective and profitable strategy.
+- Instagram Strength: Instagram campaigns (tier1 and blogger) show consistent positive results, suggesting a strong market presence and engagement.
+- Facebook Campaign Issues: Facebook campaigns, particularly retargeting, tier1, tier2, and lal, consistently underperform with negative gross profit and low ROMI. This suggests significant issues with these campaigns, potentially related to targeting, ad creatives, or overall strategy.
 
