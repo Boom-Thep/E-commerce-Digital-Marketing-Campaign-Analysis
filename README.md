@@ -135,6 +135,8 @@ Campaign Optimization:
 
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
 ![image](https://github.com/user-attachments/assets/808a9ffe-099f-48d7-8083-6e35d263a59a)
+![image](https://github.com/user-attachments/assets/12a82e49-2585-4ab6-9c54-e68dabc1a5cc)
+
 
 
 ### Cost Per Lead (CPL) Analysis
