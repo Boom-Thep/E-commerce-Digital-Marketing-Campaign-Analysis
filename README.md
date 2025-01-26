@@ -52,3 +52,25 @@ By analyzing theses queries, we were able to evaluate the effectiveness of the m
 Interpretation:
 - Positive ROMI: The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
 - Significant Gross Profit: The substantial gross profit suggests that the business is generating a healthy margin on its sales.
+
+### Campaign-Level ROMI Analysis
+Top Performers:
+- Youtube_blogger has the highest ROMI (2.77) and ROMI percentage rate (277.32%), indicating a significant return on investment.
+- Facebook_retargeting also shows a strong positive ROMI (1.01) and a high ROMI percentage rate (101.50%).
+
+Underperforming Campaigns:
+- Facebook_lal has the lowest ROMI (-0.89) and a negative ROMI percentage rate (-88.64%), indicating a loss on this campaign.
+- Facebook_tier2 and Instagram_tier2 also show negative ROMIs, suggesting that these campaigns are not generating sufficient revenue to cover their marketing costs.
+  
+Profitability:
+- The Youtube_blogger campaign generates the highest gross profit, followed by Instagram_tier1 and Instagram_blogger.
+- Campaigns like Facebook_lal and Facebook_tier2 incur significant losses.
+  
+Interpretation:
+- Channel Effectiveness: YouTube campaigns seem to be highly effective in generating revenue and ROI. Retargeting campaigns on Facebook also show promise. Campaigns on Facebook targeting specific tiers (Tier1 and Tier2) are generally underperforming.
+  
+Campaign Optimization:
+- The analysis suggests that resources should be allocated more towards high-performing campaigns like Youtube_blogger and Facebook_retargeting. Underperforming campaigns like Facebook_lal and Facebook_tier2 should be reviewed and potentially restructured or paused to minimize losses.
+  
+![image](https://github.com/user-attachments/assets/a8560832-2d95-43f4-899e-6d0d135efc5a)
+
