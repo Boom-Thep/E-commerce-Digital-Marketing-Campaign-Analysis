@@ -133,7 +133,42 @@ Campaign Optimization:
 - Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPC, indicating significant issues with these campaigns.
 - Search Campaigns: google_hot shows a positive gross profit, but its CPC is higher than youtube_blogger. google_wide shows a negative gross profit and a moderate CPC.
 
-![image](https://github.com/user-attachments/assets/91042246-4bc6-4c17-8231-ebf4ef8c5c14)
+![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
+![image](https://github.com/user-attachments/assets/808a9ffe-099f-48d7-8083-6e35d263a59a)
+
+
+### Cost Per Lead (CPL) Analysis
+Top Performer: 
+- youtube_blogger demonstrates the highest gross profit (11,253,496.49), indicating strong campaign performance. It also has a relatively low CPL (408.61), suggesting efficient lead generation.
+
+Strong Performers: 
+- instagram_blogger and instagram_tier1 show positive gross profit and moderate CPL, indicating good performance.
+
+Underperformers: 
+- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CPL, indicating significant issues with these campaigns.
+
+Campaign-Level Analysis:
+- Youtube_blogger: High gross profit, low CPL, and a high rank (1) indicate a very effective campaign.
+- Instagram Campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CPL, suggesting good performance.
+- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPL, indicating significant issues with these campaigns.
+- Search Campaigns: google_hot shows a positive gross profit but a higher CPL compared to youtube_blogger. google_wide shows a negative gross profit and a moderate CPL.
+
+![image](https://github.com/user-attachments/assets/e74205f2-e6a8-463c-8651-5dfe39f5565f)
+
+### Customer Acquisition Cost (Cost per order) Analysis
+Top Performers:
+- youtube_blogger ranks first with the highest gross profit (11,253,496.49) and a relatively low CAC (2120.13), indicating strong campaign performance and efficient customer acquisition.
+instagram_blogger and instagram_tier1 also show strong performance with high gross profit and moderate CAC.
+
+Underperformers:
+- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CAC, indicating significant issues with these campaigns.
+
+Campaign-Level Analysis:
+- Youtube_blogger: High gross profit, low CAC, and a high rank (1) indicate a very effective campaign with efficient customer acquisition.
+- Instagram Campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CAC, suggesting good performance.
+- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CAC, indicating significant issues with these campaigns.
+
+![image](https://github.com/user-attachments/assets/5afdd713-f5c2-4d51-8a44-7631683c6404)
 
 
 ## Additional Insights
