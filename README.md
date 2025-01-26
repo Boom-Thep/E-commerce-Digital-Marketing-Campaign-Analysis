@@ -30,3 +30,25 @@ top performer with a **ROMI of 277%** and the highest **gross profit of $11.25M*
 To address these challenges, it is recommended to increase investment in high-performing campaigns like YouTube Blogger and Instagram, while restructuring or pausing underperforming Facebook campaigns to improve their effectiveness. Additionally, enhancing conversion rates for underperforming campaigns and optimizing resource allocation across campaigns will further boost ROI and improve overall efficiency.
 
 ## Insights Deep-Dive
+1. Overall Business Performance
+2. Campaign-Level ROMI Analysis
+3. Campaign Performance Over Time
+4. Buyer Activity Patterns
+5. Campaign Type Effectiveness
+6. Geolocation Targeting Analysis
+7. Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
+   
+By analyzing theses queries, we were able to evaluate the effectiveness of the marketing campaign and can deliver further insights on what and when campaign/campaign type generate us the most income and which campaign is increasing the loss of profit.
+
+### Overall Business Performance
+- Total Revenue: The total revenue generated is 42,889,366.
+- Total Marketing Spend: The total amount spent on marketing is 30,590,879.82.
+- ROMI: The Return on Marketing Investment (ROMI) is 0.40.
+- ROMI Percentage Rate: The ROMI percentage rate is 40.20%.
+- Total Gross Profit/Loss: The gross profit is 12,298,486.18.
+
+![image](https://github.com/user-attachments/assets/1ce3d2de-7722-49d9-81f7-d0fa94f875ca)
+
+Interpretation:
+- Positive ROMI: The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
+- Significant Gross Profit: The substantial gross profit suggests that the business is generating a healthy margin on its sales.
