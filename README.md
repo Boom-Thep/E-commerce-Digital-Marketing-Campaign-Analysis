@@ -116,6 +116,25 @@ Campaign Optimization:
 
 ![image](https://github.com/user-attachments/assets/17ed037f-9c59-4e33-a18f-872a2d572e1f)
 
+### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
+#### Cost Per Click (CPC) Analysis
+**Top Performer:** 
+- youtube_blogger ranks first with the highest gross profit of 11,253,496.49 and a relatively low CPC of 9.02, indicating efficient spending per click.
+
+**Strong Performers:** 
+- instagram_blogger and instagram_tier1 also show strong performance with positive gross profit and moderate CPC.
+  
+**Underperformers:** 
+- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CPC.
+
+**Campaign-Level Analysis:**
+- youtube_blogger: High gross profit, low CPC, and a high rank (1) indicate a very effective campaign.
+- instagram_campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CPC, suggesting good performance.
+- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPC, indicating significant issues with these campaigns.
+- Search Campaigns: google_hot shows a positive gross profit, but its CPC is higher than youtube_blogger. google_wide shows a negative gross profit and a moderate CPC.
+
+![image](https://github.com/user-attachments/assets/91042246-4bc6-4c17-8231-ebf4ef8c5c14)
+
 
 ## Additional Insights
 ### Campaign Performance Overtime
