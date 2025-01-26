@@ -74,3 +74,28 @@ Campaign Optimization:
   
 ![image](https://github.com/user-attachments/assets/a8560832-2d95-43f4-899e-6d0d135efc5a)
 
+### Campaign Performance Overtime
+- The average daily revenue across all campaigns was $1,531,763, with the highest revenue recorded at $5,261,521 (on February 20, 2021) and the lowest at $42,789.
+- On average, campaigns spent $1,092,531 on advertising per day. The highest spend occurred on February 20, 2021, with a total of $3,499,171, while the lowest was only $28,903.
+- The average order value (AOV) ranged between $4,203 and $6,282, with a mean of $5,395.
+
+Date with the Highest Advertising Spend:
+- On February 20, 2021, the campaign had the highest marketing spend of $3,499,171. This high investment resulted in:
+  - Revenue: $5,261,521
+  - Visitor-to-Lead Conversion Rate: 2.25%
+  - Lead-to-Order Conversion Rate: 12.66%
+  - Average Order Value: $5,143
+  - Return on Marketing Investment (ROMI): 50.36%
+    
+Date with the Highest Revenue:
+- The same date, February 20, 2021, also achieved the highest revenue, suggesting a strong correlation between higher marketing spend and revenue generation. Key insights include:
+  - A balanced ROMI of 50.36%, which reflects effective use of the marketing budget.
+  - Relatively stable conversion rates (Visitor-to-Lead: 2.25%, Lead-to-Order: 12.66%) despite the spike in marketing spend.
+    
+Interpretation:
+- High Marketing Spend = High Revenue: February 20's data highlights that increased marketing investment can yield significant returns, provided the conversion rates are maintained or optimized.
+Steady AOV: The consistency in average order values ($5,395 on average) suggests stable customer purchasing behavior. However, campaigns with low revenue might benefit from strategies to boost AOV, such as upselling or bundling.
+
+![image](https://github.com/user-attachments/assets/747d28ee-e872-477b-95b2-e23a99e41ba6)
+
+
