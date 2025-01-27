@@ -70,7 +70,10 @@ Interpretation:
 Campaign Optimization:
 - The analysis suggests that resources should be allocated more towards high-performing campaigns like Youtube_blogger and Facebook_retargeting. Underperforming campaigns like Facebook_lal and Facebook_tier2 should be reviewed and potentially restructured or paused to minimize losses.
   
-![image](https://github.com/user-attachments/assets/a8560832-2d95-43f4-899e-6d0d135efc5a)
+![image](https://github.com/user-attachments/assets/bf63d64a-7c58-4b7a-a729-dc3368be857a)
+![image](https://github.com/user-attachments/assets/456cd869-0cbd-4bd2-9605-d22ed5d554e8)
+
+
 
 ### Campaign Type Effectiveness
 **Influencer Marketing:**
