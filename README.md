@@ -9,7 +9,7 @@ This project presents the dataset from Company XYZ's various digital marketing c
   
 Insights and recommendations find will be use by marketing team to allocate funding for performing campaign and reassess underperforming campaign to potentially minimize loss and increase profit.
 
-## About The Dataset and KPIs We will Focus On
+## About The Dataset
 ### The datasets contain one table with a total of 11 column:
 - id: Unique identifier for each entry
 - campaign_date: Date of the campaign
