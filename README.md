@@ -98,13 +98,29 @@ Interpretation:
 - **Underperformers:** facebook_lal, facebook_tier2, and facebook_tier1 all show negative gross profit ranging from -$168K to -$2,3M with relatively high CPC, CPL, and CAC. Especially with facebook_lal with the highest CPC ($22.01), CPL ($1,38.94), and CAC ($8,986.19) generate the most significant gross profit loss with -$2,341,706.24. The listed metrics signify major issues of the campaign. Therefore, marketing team should investigate the listed campaign and review the marketing strategy utilize in the campaign while minimizing budget or pausing the campaign launch in Facebook.
 
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
-![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f)
 ![image](https://github.com/user-attachments/assets/909886ff-c6aa-4f82-b823-7e3967299f4c)
 
 
 ## Recommendation
-**Allocate Budget**:
-**
+**Allocate and Relocate Budget**:
+- Increase the budget allocated for campaign with highest ROMI and gross profit. Use the data below as a references of campaign with highest ROMI and gross profit.
+- Pause or minimize budget for underperforming campaign such as facebook_lal with the highest losses (ROMI -88.64%). Reduced budgets for Facebook Tier 1 and Tier 2 Campaigns.
+- Shift resources from underperforming Facebook campaigns to high-performing YouTube and Instagram campaigns.
+- Use the two data below to view the marketing spent, revenue generated, gross profit, and ROMI of each campaign.
+  
+![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f) ![image](https://github.com/user-attachments/assets/c409d5a1-0b4f-467b-bafd-accc61fa7193)
+
+**Cost Efficiency Improvement**:
+- Lower Cost Per Click (CPC) and Cost Per Lead (CPL): Focus on platforms and campaigns with the most efficient CPC and CPL (e.g., YouTube and Instagram). For Facebook campaigns with high CPC ($22.01) and CPL ($1,138.94), revise targeting to exclude less engaged audiences.
+- Optimize Customer Acquisition Cost (CAC): Shift focus to campaigns with the lowest CAC (e.g., YouTube Blogger with $2,120.13). Bundle offers to increase order values and offset higher CAC on other platforms.
+
+**Channel Campaign Strategy**:
+- **Influencer Campaign:** Expand partnerships by collaborating with additional influencers in niches similar to those in the YouTube Blogger campaign. Monitors influencer campaign engagement rates such as total clicks, leads, and orders to ensure high-quality partnerships.
+- **Instagram Campaign:** Leverage Instagram Stories and Reels by using video ads and interactive content to maximize engagement. Encourage user-generated content by creating challenges or hashtag campaigns. Collaborate with users to create fun and engaging content that can drive traffic to our sites. Focus on targeting Tier1 city as Instagram Tier 1 a great ROMI (77.14%).
+- **Facebook Campaign**:
+ 
+
+
 
 
 
