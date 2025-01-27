@@ -63,34 +63,15 @@ Interpretation:
 
 
 ### Campaign Type Effectiveness
-**Influencer Marketing:**
-- High ROMI (154.29) indicates a very strong return on investment.
-- High CPC (11.07) suggests that attracting clicks through influencer campaigns is relatively expensive.
-- High CPL (490.31) and CAC (2755.58) indicate that acquiring leads and customers through influencer campaigns is costly.
-- Despite the high costs, the strong ROMI and high total revenue suggest that influencer campaigns are effective in generating significant revenue.
-  
-**Media:**
-- Moderate ROMI (22.41) indicates a reasonable return on investment.
-- Moderate CPC (11.97) and CPL (495.29) suggest that attracting clicks and generating leads through media campaigns have moderate costs.
-- CAC (3209.88) is higher than for influencer campaigns, indicating a higher cost per customer acquisition.
-  
-**Search:**
-- Low ROMI (7.07) suggests that search campaigns are not generating a high return on investment.
-- Relatively low CPC (10.48) and CPL (486.90) indicate that attracting clicks and generating leads through search campaigns are less expensive compared to influencer and media campaigns.
-- CAC (4179.23) is relatively high, indicating a higher cost per customer acquisition.
+- **Influencer Marketing:** Demonstrates a strong return on investment (154.29%) despite a high CPC ($11.07) and CPL ($490.31). Notably, this campaign type achieved the lowest CAC ($2,755.58) while yielding the highest ROMI. This likely stems from high total clicks (749,973) and a relatively high total leads (16,939), indicating influencer campaigns effectively drive traffic and generate leads. To optimize ROI, allocate more budget to influencer campaigns while reducing investment in less successful channels. Furthermore, the marketing team should implement strategies to increase the conversion rate from leads to orders (3014 orders from 16,939 leads).
 
-**Social:**
-- Negative ROMI (-13.68) indicates that social media campaigns are not generating enough revenue to cover their costs.
-- Moderate CPC (9.20) and CPL (439.67) suggest that attracting clicks and generating leads through social media campaigns have moderate costs.
-- CAC (5236.62) is relatively high, indicating a high cost per customer acquisition.
+- **Media:** Produced moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders, demonstrating their effectiveness in driving traffic, generating leads, and producing orders. While the CPC ($11.97) and CPL ($495.29) are moderate, the CAC ($3209.88) is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high ROMI (22.41%), highlighting its effectiveness.
+  
+- **Search:** Generated the lowest total clicks (330,054), total leads (7107), and total orders (828), indicating weaker performance in driving traffic and generating leads. While the CPC ($10.48) and CPL ($486.90) are relatively low, suggesting lower costs for clicks and leads compared to influencer and media campaigns, the high CAC ($4179.23) indicates a significant cost to acquire customers. Due to these lower metrics, search campaigns generated a low ROMI (7.07), indicating a low return on investment.
+  
+- **Social:** Despite high total clicks (1,499,889) and total leads (31,384) with the lowest CPC ($9.20) and CPL ($439.67), suggesting effective social media campaigns in driving traffic and generating leads, the low conversion rate from leads to orders (2635 orders out of 31,384 leads) and the highest CAC ($5236.62) contribute to a negative ROMI (-13.68). The marketing team should conduct a thorough analysis of all social media campaigns, considering factors such as: Which platforms were used? Which platforms generate the highest order-to-lead ratios? Which platforms should be prioritized based on performance? Which locations (Tier 1 or Tier 2) demonstrate higher conversion rates? Which channels should have their budgets minimized or paused based on further review?
 
 ![image](https://github.com/user-attachments/assets/fbd26977-81f0-4aac-8161-9055aa79324c)
-
-**Analysis of Clicks, Leads, and Orders:**
-- Influencer: High total_clicks (749,973) and a relatively high total_leads (16,939) suggest that influencer campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (3014 orders out of 16,939 leads) seems relatively low.
-- Media: High total_clicks (420,003) and total_leads (10,149) suggest that media campaigns are also effective in driving traffic and generating leads. The conversion rate from leads to orders (1566 orders out of 10,149 leads) is also moderate.
-- Search: High total_clicks (330,054) and total_leads (7107) suggest that search campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (828 orders out of 7107 leads) is relatively low.
-- Social: High total_clicks (1,499,889) and total_leads (31,384) suggest that social media campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (2635 orders out of 31,384 leads) is low, which contributes to the negative ROMI.
 
 
 ### Geolocation Targeting Analysis
