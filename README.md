@@ -45,11 +45,12 @@ By analyzing theses queries, we were able to evaluate the effectiveness of the m
 - ROMI Percentage Rate: The ROMI percentage rate is 40.20%.
 - Total Gross Profit/Loss: The gross profit is 12,298,486.18.
 
-![image](https://github.com/user-attachments/assets/1ce3d2de-7722-49d9-81f7-d0fa94f875ca)
+![image](https://github.com/user-attachments/assets/fa6b73dc-d96c-454d-a8a8-2937f169a275)
 
 Interpretation:
 - Positive ROMI: The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
 - Significant Gross Profit: The substantial gross profit suggests that the business is generating a healthy margin on its sales.
+
 
 ### Campaign-Level ROMI Analysis
 Top Performers:
@@ -72,7 +73,6 @@ Campaign Optimization:
   
 ![image](https://github.com/user-attachments/assets/bf63d64a-7c58-4b7a-a729-dc3368be857a)
 ![image](https://github.com/user-attachments/assets/456cd869-0cbd-4bd2-9605-d22ed5d554e8)
-
 
 
 ### Campaign Type Effectiveness
@@ -105,6 +105,7 @@ Campaign Optimization:
 - Search: High total_clicks (330,054) and total_leads (7107) suggest that search campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (828 orders out of 7107 leads) is relatively low.
 - Social: High total_clicks (1,499,889) and total_leads (31,384) suggest that social media campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (2635 orders out of 31,384 leads) is low, which contributes to the negative ROMI.
 
+
 ### Geolocation Targeting Analysis
 - Tier 1 cities demonstrate significantly better performance with a total revenue of 6,940,536, a positive gross profit of 1,810,465.27, and a strong positive ROMI of 35.29%. This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
 - Tier 2 cities show significantly lower performance with a total revenue of 4,133,766, a negative gross profit of -1,626,258.72, and a negative ROMI of -28.23%. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
@@ -118,6 +119,7 @@ Campaign Optimization:
   - Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
 ![image](https://github.com/user-attachments/assets/ac478478-3a8f-4c48-83ac-eb3062ffd3a1)
+
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
 #### Cost Per Click (CPC) Analysis
@@ -141,7 +143,6 @@ Campaign Optimization:
 ![image](https://github.com/user-attachments/assets/12a82e49-2585-4ab6-9c54-e68dabc1a5cc)
 
 
-
 ### Cost Per Lead (CPL) Analysis
 Top Performer: 
 - youtube_blogger demonstrates the highest gross profit (11,253,496.49), indicating strong campaign performance. It also has a relatively low CPL (408.61), suggesting efficient lead generation.
@@ -158,7 +159,6 @@ Campaign-Level Analysis:
 - Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPL, indicating significant issues with these campaigns.
 - Search Campaigns: google_hot shows a positive gross profit but a higher CPL compared to youtube_blogger. google_wide shows a negative gross profit and a moderate CPL.
 
-![image](https://github.com/user-attachments/assets/e74205f2-e6a8-463c-8651-5dfe39f5565f)
 
 ### Customer Acquisition Cost (Cost per order) Analysis
 Top Performers:
@@ -172,8 +172,6 @@ Campaign-Level Analysis:
 - Youtube_blogger: High gross profit, low CAC, and a high rank (1) indicate a very effective campaign with efficient customer acquisition.
 - Instagram Campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CAC, suggesting good performance.
 - Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CAC, indicating significant issues with these campaigns.
-
-![image](https://github.com/user-attachments/assets/5afdd713-f5c2-4d51-8a44-7631683c6404)
 
 
 ## Additional Insights
