@@ -1,6 +1,12 @@
 # Digital-Marketing-Metrics-KPIs-Analysis
 ## Project Summary
-This project presents the dataset from Company XYZ's various digital marketing campaigns conducted over one month, spanning February 1st to February 28th. The campaign are set up by marketing team to attract more customer to the company's website. We are collaborating with the marketing team to assess the performance of these campaigns by analyzing the effectiveness of spending and the return on marketing investment. Our goal is to extract insights and provide recommendations to improve the performance of marketing team to potentially minimize loss and increase profit.
+This project presents the dataset from Company XYZ's various digital marketing campaigns conducted over one month, spanning February 1st to February 28th. The campaign are set up by marketing team to attract more customer to the company's website. We are collaborating with the marketing team to assess the performance of these campaigns by analyzing the effectiveness of spending and the return on marketing investment. The KPIs we are investigating are:
+- **ROMI:** Return on marketing investment
+- **CPC:** Cost per clicks
+- **CPL:** Cost per leads
+- **CAC:** Customer acquisition cost (leads to orders)
+- **Gross Profit or Loss:** revenue - marketing spent
+Insights and recommendations find will be use by marketing team to allocate funding for performing campaign and reassess underperforming campaign to potentially minimize loss and increase profit.
 
 ## About The Dataset and KPIs We will Focus On
 ### The datasets contain one table with a total of 11 column:
@@ -16,12 +22,6 @@ This project presents the dataset from Company XYZ's various digital marketing c
 - orders: Number of orders made
 - revenue: Revenue generated from the campaign
 
-### The following are KPIs that will be used to evaluate the effectiveness of the marketing campaign:
-- **ROMI:** Return on marketing investment
-- **CPC:** Cost per clicks
-- **CPL:** Cost per leads
-- **CAC:** Customer acquisition cost (leads to orders)
-- **Gross Profit or Loss:** revenue - marketing spent
 
 ## Executive Summary
 The analysis revealed that Company XYZ’s campaigns generated **$42.89M in revenue** with a **ROMI of 40.20%**, indicating efficient overall performance. The YouTube Blogger campaign emerged as the 
