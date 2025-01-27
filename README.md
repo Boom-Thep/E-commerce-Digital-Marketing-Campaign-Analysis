@@ -117,7 +117,7 @@ Interpretation:
 **Channel Campaign Strategy**:
 - **Influencer Campaign:** Expand partnerships by collaborating with additional influencers in niches similar to those in the YouTube Blogger campaign. Monitors influencer campaign engagement rates such as total clicks, leads, and orders to ensure high-quality partnerships.
 - **Instagram Campaign:** Leverage Instagram Stories and Reels by using video ads and interactive content to maximize engagement. Encourage user-generated content by creating challenges or hashtag campaigns. Collaborate with users to create fun and engaging content that can drive traffic to our sites. Focus on targeting Tier1 city as Instagram Tier 1 a great ROMI (77.14%).
-- **Facebook Campaign**:
+- **Facebook Campaign**: Review underperforming campaign such as facebook_lal, facebook_tier2, and facebook_tier1 and compare it to a more successful campaign from the same platform such as facebook_retargeting (ROMI 101.50%). Evaluate if the underperforming campaign targeting criteria (e.g., location, interests, demographics) align with the intended audience. Investigate if the underlying issues for underperforming campaign is due to having a different targeting criteria as the facebook_retargeting campaign.
  
 
 
