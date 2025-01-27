@@ -36,7 +36,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 6. Geolocation Targeting Analysis
 7. Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
    
-By analyzing theses queries, we were able to evaluate the effectiveness of the marketing campaign and can deliver further insights on what and when campaign/campaign type generate us the most income and which campaign is increasing the loss of profit.
+By analyzing theses queries, we were able to evaluate the effectiveness of the marketing campaign and can deliver further insights on what campaign/campaign type generate us the most income, how effective the marketing cost is being utilized, and which campaign is increasing the loss of profit.
 
 ### Overall Business Performance
 - Total Revenue: The total revenue generated is 42,889,366.
@@ -90,56 +90,16 @@ Interpretation:
 
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
-#### Cost Per Click (CPC) Analysis
-**Top Performer:** 
-- youtube_blogger ranks first with the highest gross profit of 11,253,496.49 and a relatively low CPC of 9.02, indicating efficient spending per click.
 
-**Strong Performers:** 
-- instagram_blogger and instagram_tier1 also show strong performance with positive gross profit and moderate CPC.
+- **Top Performer:** the influencer campaign, youtube_blogger, ranks first with the highest gross profit of 11,253,496.49 with ROMI (277.32%) at relatively low CPC ($9.02), CPL ($408.61), CAC ($2,120.13), indicating efficient spending per click, lead generation, and customer acquisition. The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
+
+- **Strong Performers:** Both the social campaign, instagram_tier1 and instagram_blogger also show strong performance with positive gross profit at $1,978,846.75 and %1,561,086.43 respectively. Morever, both campaign generate relatively low CPC, CPL, and CAC. However, instagram_tier1 yield better ROMI (77.14%) than instagram_blogger ROMI (36.75%). This can be due to the higher CPC ($14.16), CPL ($606.07), and CAC ($3,861.24) from instagram_blogger campaign. Both campaign provide a great insight. However, both campaign's metric still suggest good performance and shows that Instagram might be a platform to prioritize in compared to Facebook.
   
-**Underperformers:** 
-- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CPC.
-
-**Campaign-Level Analysis:**
-- youtube_blogger: High gross profit, low CPC, and a high rank (1) indicate a very effective campaign.
-- instagram_campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CPC, suggesting good performance.
-- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPC, indicating significant issues with these campaigns.
-- Search Campaigns: google_hot shows a positive gross profit, but its CPC is higher than youtube_blogger. google_wide shows a negative gross profit and a moderate CPC.
+- **Underperformers:** facebook_lal, facebook_tier2, and facebook_tier1 all show negative gross profit ranging from -$168K to -$2,3M with relatively high CPC, CPL, and CAC. Especially with facebook_lal with the highest CPC ($22.01), CPL ($1,38.94), and CAC ($8,986.19) generate the most significant gross profit loss with -$2,341,706.24. The listed metrics signify major issues of the campaign. Therefore, marketing team should investigate the listed campaign and review the marketing strategy utilize in the campaign while minimizing budget or pausing the campaign launch in Facebook.
 
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
 ![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f)
 ![image](https://github.com/user-attachments/assets/909886ff-c6aa-4f82-b823-7e3967299f4c)
-
-
-### Cost Per Lead (CPL) Analysis
-Top Performer: 
-- youtube_blogger demonstrates the highest gross profit (11,253,496.49), indicating strong campaign performance. It also has a relatively low CPL (408.61), suggesting efficient lead generation.
-
-Strong Performers: 
-- instagram_blogger and instagram_tier1 show positive gross profit and moderate CPL, indicating good performance.
-
-Underperformers: 
-- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CPL, indicating significant issues with these campaigns.
-
-Campaign-Level Analysis:
-- Youtube_blogger: High gross profit, low CPL, and a high rank (1) indicate a very effective campaign.
-- Instagram Campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CPL, suggesting good performance.
-- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CPL, indicating significant issues with these campaigns.
-- Search Campaigns: google_hot shows a positive gross profit but a higher CPL compared to youtube_blogger. google_wide shows a negative gross profit and a moderate CPL.
-
-
-### Customer Acquisition Cost (Cost per order) Analysis
-Top Performers:
-- youtube_blogger ranks first with the highest gross profit (11,253,496.49) and a relatively low CAC (2120.13), indicating strong campaign performance and efficient customer acquisition.
-instagram_blogger and instagram_tier1 also show strong performance with high gross profit and moderate CAC.
-
-Underperformers:
-- facebook_lal, facebook_tier2, and facebook_retargeting all show negative gross profit and relatively high CAC, indicating significant issues with these campaigns.
-
-Campaign-Level Analysis:
-- Youtube_blogger: High gross profit, low CAC, and a high rank (1) indicate a very effective campaign with efficient customer acquisition.
-- Instagram Campaigns: instagram_blogger and instagram_tier1 show positive gross profit and moderate CAC, suggesting good performance.
-- Facebook Campaigns: facebook_lal, facebook_tier2, and facebook_retargeting all have negative gross profit and relatively high CAC, indicating significant issues with these campaigns.
 
 
 ## Additional Insights
