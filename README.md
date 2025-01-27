@@ -114,7 +114,7 @@ Campaign Optimization:
   - Consider adjusting budgets and allocating more resources to Tier 1 cities.
   - Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
-![image](https://github.com/user-attachments/assets/17ed037f-9c59-4e33-a18f-872a2d572e1f)
+![image](https://github.com/user-attachments/assets/ac478478-3a8f-4c48-83ac-eb3062ffd3a1)
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
 #### Cost Per Click (CPC) Analysis
