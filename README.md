@@ -125,5 +125,9 @@ Interpretation:
 - **Tier 2 Cities Reassess Approach:** Focus on conducting research or surveys to understand audience behavior in Tier 2 cities. Afterward, Re-evaluate and test smaller campaigns with adjusted messaging and budgets. Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
 
+## Technical Details
+- **Excel**: Create visualization for data to improve readability.
+- **SQL**: Manipulate data, analyze data, and perform calculation.
+
 
 
