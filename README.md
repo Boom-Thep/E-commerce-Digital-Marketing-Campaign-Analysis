@@ -63,7 +63,7 @@ Interpretation:
 ![image](https://github.com/user-attachments/assets/456cd869-0cbd-4bd2-9605-d22ed5d554e8)
 
 
-### Campaign Type Effectiveness
+### Campaign Category Effectiveness
 - **Influencer Marketing:** Demonstrates a strong return on investment (154.29%) despite a high CPC ($11.07) and CPL ($490.31). Notably, this campaign type achieved the lowest CAC ($2,755.58) while yielding the highest ROMI. This likely stems from high total clicks (749,973) and a relatively high total leads (16,939), indicating influencer campaigns effectively drive traffic and generate leads. To optimize ROI, allocate more budget to influencer campaigns while reducing investment in less successful channels. Furthermore, the marketing team should implement strategies to increase the conversion rate from leads to orders (3014 orders from 16,939 leads).
 
 - **Media:** Produced moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders, demonstrating their effectiveness in driving traffic, generating leads, and producing orders. While the CPC ($11.97) and CPL ($495.29) are moderate, the CAC ($3209.88) is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high ROMI (22.41%), highlighting its effectiveness.
