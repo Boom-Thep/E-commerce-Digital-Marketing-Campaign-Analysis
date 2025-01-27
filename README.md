@@ -119,9 +119,10 @@ Interpretation:
 - **Instagram Campaign:** Leverage Instagram Stories and Reels by using video ads and interactive content to maximize engagement. Encourage user-generated content by creating challenges or hashtag campaigns. Collaborate with users to create fun and engaging content that can drive traffic to our sites. Focus on targeting Tier1 city as Instagram Tier 1 a great ROMI (77.14%).
 - **Facebook Campaign**: Review underperforming campaign such as facebook_lal, facebook_tier2, and facebook_tier1 and compare it to a more successful campaign from the same platform such as facebook_retargeting (ROMI 101.50%). Evaluate if the underperforming campaign targeting criteria (e.g., location, interests, demographics) align with the intended audience. Investigate if the underlying issues for underperforming campaign is due to having a different targeting criteria as the facebook_retargeting campaign.
  
+**Geolocation Strategy**
+- **Tier 1 Cities Prioritize Marketing Efforts:** Allocate more budget to Tier 1 while decreasing Tier 2 budget. Increase ad spend in Tier 1 cities, which have shown high revenue ($6.94M) and positive ROMI (35.29%). Tailor targeted ads to reflect local cultural trends and preferences within the city.
 
-
-
+- **Tier 2 Cities Reassess Approach:** Focus on conducting research or surveys to understand audience behavior in Tier 2 cities. Afterward, Re-evaluate and test smaller campaigns with adjusted messaging and budgets. Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
 
 
