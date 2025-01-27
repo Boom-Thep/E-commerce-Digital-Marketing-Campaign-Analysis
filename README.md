@@ -17,11 +17,11 @@ This project presents the dataset from Company XYZ's various digital marketing c
 - revenue: Revenue generated from the campaign
 
 ### The following are KPIs that will be used to evaluate the effectiveness of the marketing campaign:
-- **ROMI: Return on marketing investment**
-- **CPC: Cost per clicks**
-- **CPL: Cost per leads**
-- **CAC: Customer acquisition cost (leads to orders)**
-- **Gross Profit or Loss: revenue - marketing spent**
+- **ROMI:** Return on marketing investment
+- **CPC:** Cost per clicks
+- **CPL:** Cost per leads
+- **CAC:** Customer acquisition cost (leads to orders)
+- **Gross Profit or Loss:** revenue - marketing spent
 
 ## Executive Summary
 The analysis revealed that Company XYZ’s campaigns generated **$42.89M in revenue** with a **ROMI of 40.20%**, indicating efficient overall performance. The YouTube Blogger campaign emerged as the 
@@ -45,32 +45,19 @@ By analyzing theses queries, we were able to evaluate the effectiveness of the m
 - ROMI Percentage Rate: The ROMI percentage rate is 40.20%.
 - Total Gross Profit/Loss: The gross profit is 12,298,486.18.
 
-![image](https://github.com/user-attachments/assets/fa6b73dc-d96c-454d-a8a8-2937f169a275)
-
 Interpretation:
 - Positive ROMI: The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
 - Significant Gross Profit: The substantial gross profit suggests that the business is generating a healthy margin on its sales.
 
+![image](https://github.com/user-attachments/assets/fa6b73dc-d96c-454d-a8a8-2937f169a275)
+
 
 ### Campaign-Level ROMI Analysis
-Top Performers:
-- Youtube_blogger has the highest ROMI (2.77) and ROMI percentage rate (277.32%), indicating a significant return on investment.
-- Facebook_retargeting also shows a strong positive ROMI (1.01) and a high ROMI percentage rate (101.50%).
 
-Underperforming Campaigns:
-- Facebook_lal has the lowest ROMI (-0.89) and a negative ROMI percentage rate (-88.64%), indicating a loss on this campaign.
-- Facebook_tier2 and Instagram_tier2 also show negative ROMIs, suggesting that these campaigns are not generating sufficient revenue to cover their marketing costs.
-  
-Profitability:
-- The Youtube_blogger campaign generates the highest gross profit, followed by Instagram_tier1 and Instagram_blogger.
-- Campaigns like Facebook_lal and Facebook_tier2 incur significant losses.
-  
-Interpretation:
-- Channel Effectiveness: YouTube campaigns seem to be highly effective in generating revenue and ROI. Retargeting campaigns on Facebook also show promise. Campaigns on Facebook targeting specific tiers (Tier1 and Tier2) are generally underperforming.
-  
-Campaign Optimization:
-- The analysis suggests that resources should be allocated more towards high-performing campaigns like Youtube_blogger and Facebook_retargeting. Underperforming campaigns like Facebook_lal and Facebook_tier2 should be reviewed and potentially restructured or paused to minimize losses.
-  
+- **Performing Campaign:** Youtube_blogger has the **highest ROMI (277.32%) and gross-profit ($11.2 Million)**, indicating a significant return on investment along with Facebook_retargeting campaign strong positive **ROMI (101.50%)**. Therefore, resources should be allocated to a similar campaign like Youtube_blogger and Facebook_retargeting in the future. It is recommended to a marketing team to review these two campaigns and how are they different from other campaigns. 
+
+- **Underperforming Campaigns:** Facebook_lal has the **lowest ROMI (-88.64%)**, indicating a significant loss on this campaign. Furthermore, both Facebook_tier 1 **(-6.57%)** and Facebook_tier2 **(-26.22%)** along with Instagram_tier2 **(-33.67%)** show negative ROMIs, suggesting that these campaigns are not generating sufficient revenue to cover their marketing costs. Moreover, three campaigns from Facebook generate a **significant amount of loss (approximately $3.7 Million)**. Therefore, the marketing team should minimize funds and marketing activity on the platform to review the strategy implemented on those channels. Find the underlying issues of of the ineffective results while comparing to more successful campaign from the same platform, Facebook_retargeting campaign.
+    
 ![image](https://github.com/user-attachments/assets/bf63d64a-7c58-4b7a-a729-dc3368be857a)
 ![image](https://github.com/user-attachments/assets/456cd869-0cbd-4bd2-9605-d22ed5d554e8)
 
