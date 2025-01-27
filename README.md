@@ -107,7 +107,7 @@ Interpretation:
 - Search Campaigns: google_hot shows a positive gross profit, but its CPC is higher than youtube_blogger. google_wide shows a negative gross profit and a moderate CPC.
 
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
-![image](https://github.com/user-attachments/assets/f3e0596d-7068-45ab-b527-52ca3ce13c14)
+![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f)
 ![image](https://github.com/user-attachments/assets/12a82e49-2585-4ab6-9c54-e68dabc1a5cc)
 
 
