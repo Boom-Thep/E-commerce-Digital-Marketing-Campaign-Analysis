@@ -6,6 +6,7 @@ This project presents the dataset from Company XYZ's various digital marketing c
 - **CPL:** Cost per leads
 - **CAC:** Customer acquisition cost (leads to orders)
 - **Gross Profit or Loss:** revenue - marketing spent
+  
 Insights and recommendations find will be use by marketing team to allocate funding for performing campaign and reassess underperforming campaign to potentially minimize loss and increase profit.
 
 ## About The Dataset and KPIs We will Focus On
