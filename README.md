@@ -108,7 +108,7 @@ Interpretation:
 
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
 ![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f)
-![image](https://github.com/user-attachments/assets/12a82e49-2585-4ab6-9c54-e68dabc1a5cc)
+![image](https://github.com/user-attachments/assets/909886ff-c6aa-4f82-b823-7e3967299f4c)
 
 
 ### Cost Per Lead (CPL) Analysis
