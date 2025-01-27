@@ -94,7 +94,7 @@ Campaign Optimization:
 - Moderate CPC (9.20) and CPL (439.67) suggest that attracting clicks and generating leads through social media campaigns have moderate costs.
 - CAC (5236.62) is relatively high, indicating a high cost per customer acquisition.
 
-![image](https://github.com/user-attachments/assets/ac7bc199-ce5b-41e6-9498-36d95b732079)
+![image](https://github.com/user-attachments/assets/fbd26977-81f0-4aac-8161-9055aa79324c)
 
 **Analysis of Clicks, Leads, and Orders:**
 - Influencer: High total_clicks (749,973) and a relatively high total_leads (16,939) suggest that influencer campaigns are effective in driving traffic and generating leads. However, the conversion rate from leads to orders (3014 orders out of 16,939 leads) seems relatively low.
