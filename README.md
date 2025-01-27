@@ -1,6 +1,6 @@
 # Digital-Marketing-Metrics-KPIs-Analysis
 ## Project Summary
-This project presents the dataset from Company XYZ's various digital marketing campaigns conducted over one month, spanning February 1st to February 28th. The campaign are set up by marketing team to attract more customer to the company's website. We are collaborating with the marketing team to assess the performance of these campaigns by analyzing the effectiveness of their spending, and measure the return on marketing investment. Our goal is to extract insights and provide recommendations to improve the performance of marketing team.
+This project presents the dataset from Company XYZ's various digital marketing campaigns conducted over one month, spanning February 1st to February 28th. The campaign are set up by marketing team to attract more customer to the company's website. We are collaborating with the marketing team to assess the performance of these campaigns by analyzing the effectiveness of spending and the return on marketing investment. Our goal is to extract insights and provide recommendations to improve the performance of marketing team to potentially minimize loss and increase profit.
 
 ## About The Dataset and KPIs We will Focus On
 ### The datasets contain one table with a total of 11 column:
