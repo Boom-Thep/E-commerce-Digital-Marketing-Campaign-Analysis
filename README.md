@@ -31,14 +31,6 @@ top performer with a **ROMI of 277%** and the highest **gross profit of $11.25M*
 To address these challenges, it is recommended to increase investment in high-performing campaigns like YouTube Blogger and Instagram, while restructuring or pausing underperforming Facebook campaigns to improve their effectiveness. Additionally, enhancing conversion rates for underperforming campaigns and optimizing resource allocation across campaigns will further boost ROI and improve overall efficiency.
 
 ## Insights Deep-Dive
-1. Overall Business Performance
-2. Campaign-Level ROMI Analysis
-4. Campaign Type Effectiveness
-6. Geolocation Targeting Analysis
-7. Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
-   
-By analyzing theses queries, we were able to evaluate the effectiveness of the marketing campaign and can deliver further insights on what campaign/campaign type generate us the most income, how effective the marketing cost is being utilized, and which campaign is increasing the loss of profit.
-
 ### Overall Business Performance
 - Total Revenue: The total revenue generated is 42,889,366.
 - Total Marketing Spend: The total amount spent on marketing is 30,590,879.82.
@@ -66,22 +58,27 @@ Interpretation:
 ### Campaign Category Effectiveness
 - **Influencer Marketing:** Demonstrates a strong return on investment (154.29%) despite a high CPC ($11.07) and CPL ($490.31). Notably, this campaign type achieved the lowest CAC ($2,755.58) while yielding the highest ROMI. This likely stems from high total clicks (749,973) and a relatively high total leads (16,939), indicating influencer campaigns effectively drive traffic and generate leads. To optimize ROI, allocate more budget to influencer campaigns while reducing investment in less successful channels. Furthermore, the marketing team should implement strategies to increase the conversion rate from leads to orders (3014 orders from 16,939 leads).
 
-- **Media:** Produced moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders, demonstrating their effectiveness in driving traffic, generating leads, and producing orders. While the CPC ($11.97) and CPL ($495.29) are moderate, the CAC ($3209.88) is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high ROMI (22.41%), highlighting its effectiveness.
+- **Media:** Produced moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders, demonstrating effectiveness in driving traffic, generating leads, and producing orders. While the CPC ($11.97) and CPL ($495.29) are moderate, the CAC ($3209.88) is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high ROMI (22.41%), highlighting its effectiveness.
   
-- **Search:** Generated the lowest total clicks (330,054), total leads (7107), and total orders (828), indicating weaker performance in driving traffic and generating leads. While the CPC ($10.48) and CPL ($486.90) are relatively low, suggesting lower costs for clicks and leads compared to influencer and media campaigns, the high CAC ($4179.23) indicates a significant cost to acquire customers. Due to these lower metrics, search campaigns generated a low ROMI (7.07), indicating a low return on investment.
+- **Search:** Generated the lowest total clicks (330,054), total leads (7107), and total orders (828), indicating weaker performance in driving traffic and generating leads. While the CPC ($10.48) and CPL ($486.90) are relatively low, suggesting lower costs for clicks and leads compared to influencer and media campaigns, the high CAC ($4179.23) reflects a significant cost to acquire customers. Due to these lower metrics, search campaigns generated a low ROMI (7.07), indicating a poor return on investment.
   
-- **Social:** Despite high total clicks (1,499,889) and total leads (31,384) with the lowest CPC ($9.20) and CPL ($439.67), suggesting effective social media campaigns in driving traffic and generating leads, the low conversion rate from leads to orders (2635 orders out of 31,384 leads) and the highest CAC ($5236.62) contribute to a negative ROMI (-13.68). The marketing team should conduct a thorough analysis of all social media campaigns, considering factors such as: Which platforms were used? Which platforms generate the highest order-to-lead ratios? Which platforms should be prioritized based on performance? Which locations (Tier 1 or Tier 2) demonstrate higher conversion rates? Which channels should have their budgets minimized or paused based on further review?
+- **Social:** Despite high total clicks (1,499,889) and total leads (31,384), along with the lowest CPC ($9.20) and CPL ($439.67)—indicating effective social media campaigns in driving traffic and generating leads—the low conversion rate from leads to orders (2,635 orders out of 31,384 leads) and the highest CAC ($5,236.62) have resulted in a negative ROMI (-13.68). The marketing team should conduct a thorough analysis of all social media campaigns, focusing on factors such as:
+  - Which platforms were used?
+  - Which platforms generate the highest order-to-lead ratios?
+  - Which platforms should be prioritized based on performance?
+  - Which locations (Tier 1 or Tier 2) demonstrate higher conversion rates?
+  - Which channels should have their budgets minimized or paused based on further review?
 
 ![image](https://github.com/user-attachments/assets/fbd26977-81f0-4aac-8161-9055aa79324c)
 
 
 ### Geolocation Targeting Analysis
-- Tier 1 cities demonstrate significantly better performance with a total revenue of 6,940,536, a positive gross profit of 1,810,465.27, and a strong positive ROMI of 35.29%. This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
-- Tier 2 cities show significantly lower performance with a total revenue of 4,133,766, a negative gross profit of -1,626,258.72, and a negative ROMI of -28.23%. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
+- **Tier 1 cities:** Demonstrate significantly better performance with a total revenue of 6,940,536, a positive gross profit of 1,810,465.27, and a strong positive ROMI of 35.29%. This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
+- **Tier 2 cities:** Show significantly lower performance with a total revenue of **4,133,766**, a negative gross profit of **-1,626,258.72**, and a negative ROMI of **-28.23%**. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
 
 **Recommendations:**
-- Prioritize Tier 1 Cities: Continue to prioritize marketing efforts in Tier 1 cities, as they have shown strong performance and profitability.
-- Re-evaluate Tier 2 Strategies:
+- **Prioritize Tier 1 Cities:** Continue to prioritize marketing efforts in Tier 1 cities, as they have shown strong performance and profitability.
+- **Re-evaluate Tier 2 Strategies:**
   - Analyze and refine targeting criteria for Tier 2 cities.
   - Re-evaluate messaging and creative to better resonate with the target audience in Tier 2 cities.
   - Consider adjusting budgets and allocating more resources to Tier 1 cities.
@@ -92,33 +89,33 @@ Interpretation:
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
 
-- **Top Performer:** the influencer campaign, youtube_blogger, ranks first with the highest gross profit of 11,253,496.49 with ROMI (277.32%) at relatively low CPC ($9.02), CPL ($408.61), CAC ($2,120.13), indicating efficient spending per click, lead generation, and customer acquisition. The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
+- **Top Performer:** the influencer campaign, youtube_blogger, ranks first with the highest gross profit of **11,253,496.49 and a ROMI of 277.32%**. It also achieved relatively **low CPC ($9.02), CPL ($408.61), CAC ($2,120.13)**, indicating efficient spending per click, lead generation, and customer acquisition. The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
 
-- **Strong Performers:** Both the social campaign, instagram_tier1 and instagram_blogger also show strong performance with positive gross profit at $1,978,846.75 and %1,561,086.43 respectively. Morever, both campaign generate relatively low CPC, CPL, and CAC. However, instagram_tier1 yield better ROMI (77.14%) than instagram_blogger ROMI (36.75%). This can be due to the higher CPC ($14.16), CPL ($606.07), and CAC ($3,861.24) from instagram_blogger campaign. Both campaign provide a great insight. However, both campaign's metric still suggest good performance and shows that Instagram might be a platform to prioritize in compared to Facebook.
+- **Strong Performers:** Both the social campaign, instagram_tier1 and instagram_blogger, demonstrate strong performance, with positive gross profit at **$1,978,846.75 and $1,561,086.43**, respectively. Morever, both campaign generate relatively low CPC, CPL, and CAC. However, instagram_tier1 yield better **ROMI (77.14%)** compared to instagram_blogger **ROMI (36.75%)**. This difference could be attributed to the higher **CPC ($14.16), CPL ($606.07), and CAC ($3,861.24)** of instagram_blogger campaign. Both campaign provide a great insight. and their metrics good performance overall. Additionally, the results indicate that Instagram might be a platform to prioritize over Facebook
   
-- **Underperformers:** facebook_lal, facebook_tier2, and facebook_tier1 all show negative gross profit ranging from -$168K to -$2,3M with relatively high CPC, CPL, and CAC. Especially with facebook_lal with the highest CPC ($22.01), CPL ($1,38.94), and CAC ($8,986.19) generate the most significant gross profit loss with -$2,341,706.24. The listed metrics signify major issues of the campaign. Therefore, marketing team should investigate the listed campaign and review the marketing strategy utilize in the campaign while minimizing budget or pausing the campaign launch in Facebook.
-
+- **Underperformers:** Facebook_LAL, facebook_Tier2, and facebook_Tier1 all show negative gross profits, ranging from **-$168K to -$2.3M**, with relatively high CPC, CPL, and CAC. Notably, facebook_LAL recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706.24**. These metrics indicate major issues with the campaign. Therefore, the marketing team should investigate the listed campaigns and review the strategies used while minimizing budgets or pausing future campaign launches on Facebook.
+  
 ![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
 ![image](https://github.com/user-attachments/assets/909886ff-c6aa-4f82-b823-7e3967299f4c)
 
 
 ## Recommendation
 **Allocate and Relocate Budget**:
-- Increase the budget allocated for campaign with highest ROMI and gross profit. Use the data below as a references of campaign with highest ROMI and gross profit.
-- Pause or minimize budget for underperforming campaign such as facebook_lal with the highest losses (ROMI -88.64%). Reduced budgets for Facebook Tier 1 and Tier 2 Campaigns.
-- Shift resources from underperforming Facebook campaigns to high-performing YouTube and Instagram campaigns.
-- Use the two data below to view the marketing spent, revenue generated, gross profit, and ROMI of each campaign.
+- **Increase Budget:** Allocate more budget to campaigns with the highest ROMI and gross profit. Refer to the data below for insights on campaigns that achieved the highest ROMI and gross profit.
+- **Pause or Minimize Budget:** Suspend or significantly reduce budgets for underperforming campaigns, such as facebook_LAL, which reported the highest losses (ROMI: -88.64%). Similarly, reduce budgets for facebook_Tier1 and facebook_Tier2 campaigns.
+- **Reallocate Resources:** Shift resources from underperforming Facebook campaigns to high-performing YouTube and Instagram campaigns.
+- **Utilize Campaign Data:** Use the two datasets below to analyze marketing spend, revenue generated, gross profit, and ROMI for each campaign to guide budget decisions effectively.
   
 ![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f) ![image](https://github.com/user-attachments/assets/c409d5a1-0b4f-467b-bafd-accc61fa7193)
 
 **Cost Efficiency Improvement**:
-- Lower Cost Per Click (CPC) and Cost Per Lead (CPL): Focus on platforms and campaigns with the most efficient CPC and CPL (e.g., YouTube and Instagram). For Facebook campaigns with high CPC ($22.01) and CPL ($1,138.94), revise targeting to exclude less engaged audiences.
-- Optimize Customer Acquisition Cost (CAC): Shift focus to campaigns with the lowest CAC (e.g., YouTube Blogger with $2,120.13). Bundle offers to increase order values and offset higher CAC on other platforms.
+- **Lower Cost Per Click (CPC) and Cost Per Lead (CPL):** Focus on platforms and campaigns with the most efficient CPC and CPL (e.g., YouTube and Instagram). For Facebook campaigns with high CPC ($22.01) and CPL ($1,138.94), revise targeting to exclude less engaged audiences.
+- **Optimize Customer Acquisition Cost (CAC):** Shift focus to campaigns with the lowest CAC (e.g., YouTube Blogger with $2,120.13). Bundle offers to increase order values and offset higher CAC on other platforms.
 
 **Channel Campaign Strategy**:
-- **Influencer Campaign:** Expand partnerships by collaborating with additional influencers in niches similar to those in the YouTube Blogger campaign. Monitors influencer campaign engagement rates such as total clicks, leads, and orders to ensure high-quality partnerships.
-- **Instagram Campaign:** Leverage Instagram Stories and Reels by using video ads and interactive content to maximize engagement. Encourage user-generated content by creating challenges or hashtag campaigns. Collaborate with users to create fun and engaging content that can drive traffic to our sites. Focus on targeting Tier1 city as Instagram Tier 1 a great ROMI (77.14%).
-- **Facebook Campaign**: Review underperforming campaign such as facebook_lal, facebook_tier2, and facebook_tier1 and compare it to a more successful campaign from the same platform such as facebook_retargeting (ROMI 101.50%). Evaluate if the underperforming campaign targeting criteria (e.g., location, interests, demographics) align with the intended audience. Investigate if the underlying issues for underperforming campaign is due to having a different targeting criteria as the facebook_retargeting campaign.
+- **Influencer Campaign:** Allocate more budget to influencer campaigns while reducing investment in less successful channels. Moreover, expand partnerships by collaborating with additional influencers in niches similar to those in the YouTube Blogger campaign. Monitors influencer campaign engagement rates such as total clicks, leads, and orders to ensure high-quality partnerships.
+- **Instagram Campaign:** Leverage Instagram Stories and Reels by utilizing video ads and interactive content to maximize engagement. Encourage user-generated content by launching challenges or hashtag campaigns. Collaborate with influencers and users to create fun, engaging content that drives traffic to our sites. Focus on targeting Tier 1 cities, as the Instagram_Tier1 campaign demonstrated a strong ROMI of 77.14%.
+- **Facebook Campaign**: Analyze underperforming campaigns such as facebook_LAL, facebook_Tier2, and facebook_Tier1, and compare them to a more successful campaign from the same platform, such as facebook_Retargeting (ROMI: 101.50%). Evaluate whether the targeting criteria of the underperforming campaigns (e.g., location, interests, demographics) align with the intended audience. Investigate whether the underlying issues of these campaigns stem from differing targeting criteria compared to the facebook_Retargeting campaign.
  
 **Geolocation Strategy**
 - **Tier 1 Cities Prioritize Marketing Efforts:** Allocate more budget to Tier 1 while decreasing Tier 2 budget. Increase ad spend in Tier 1 cities, which have shown high revenue ($6.94M) and positive ROMI (35.29%). Tailor targeted ads to reflect local cultural trends and preferences within the city.
@@ -127,8 +124,8 @@ Interpretation:
 
 
 ## Technical Details
-- **Excel**: Create visualization for data to improve readability.
-- **SQL**: Manipulate data, analyze data, and perform calculation.
+- **Excel:** Create visualizations to improve data readability and highlight key insights effectively.
+- **SQL:** Manipulate data and calculate KPI metrics such as CPC, CPL, CAC, gross profit, and ROMI. Use the results from these calculations to perform detailed analysis. Export the raw results to Excel to develop data visualizations for better representation and decision-making.
 
 
 
