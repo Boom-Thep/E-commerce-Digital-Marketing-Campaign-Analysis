@@ -25,7 +25,7 @@ Insights and recommendations find will be use by marketing team to allocate fund
 
 
 ## Executive Summary
-The analysis revealed that Company XYZ’s campaigns generated **$42.89M in revenue** with a **ROMI of 40.20%**, indicating efficient overall performance. The YouTube Blogger campaign emerged as the 
+The analysis revealed that the company's campaigns generated **$42.89M in revenue** with a **ROMI of 40.20%**, indicating efficient overall performance. The YouTube Blogger campaign emerged as the 
 top performer with a **ROMI of 277%** and the highest **gross profit of $11.25M**, while Instagram campaigns (Blogger & Tier 1) also delivered strong results. However, several Facebook campaigns, particularly Facebook_lal, underperformed significantly with a negative **ROMI of -88.64% and a gross loss of $1M**, alongside Facebook_tier2 and Facebook_tier1, which also showed negative ROMIs and gross losses. Influencer marketing proved to be the most effective campaign type, boasting a **ROMI of 154.29%**, while social media campaigns struggled with a negative **ROMI of -13.68%**.
 
 To address these challenges, it is recommended to increase investment in high-performing campaigns like YouTube Blogger and Instagram, while restructuring or pausing underperforming Facebook campaigns to improve their effectiveness. Additionally, enhancing conversion rates for underperforming campaigns and optimizing resource allocation across campaigns will further boost ROI and improve overall efficiency.
