@@ -1,4 +1,4 @@
-# Digital-Marketing-Metrics-KPIs-Analysis
+# E-commerce Digital Marketing Campaign Analysis
 ## Project Summary
 This project presents the dataset from e-commerce company's digital marketing campaigns conducted over one month, spanning February 1st to February 28th. The campaigns are set up by marketing team to attract more customer to the company's website. We are collaborating with the marketing team to assess the performance of these campaigns by analyzing the effectiveness of spending and the return on marketing investment. The KPIs we are investigating are:
 - **ROMI:** Return on marketing investment
