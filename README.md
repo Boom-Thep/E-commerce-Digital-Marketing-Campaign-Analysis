@@ -32,15 +32,15 @@ To address these challenges, it is recommended to increase investment in high-pe
 
 ## Insights Deep-Dive
 ### Overall Business Performance
-- Total Revenue: The total revenue generated is 42,889,366.
-- Total Marketing Spend: The total amount spent on marketing is 30,590,879.82.
-- ROMI: The Return on Marketing Investment (ROMI) is 0.40.
-- ROMI Percentage Rate: The ROMI percentage rate is 40.20%.
-- Total Gross Profit/Loss: The gross profit is 12,298,486.18.
+- **Total Revenue:** The total revenue generated is 42,889,366.
+- **Total Marketing Spend:** The total amount spent on marketing is 30,590,879.82.
+- **ROMI:** The Return on Marketing Investment (ROMI) is 0.40.
+- **ROMI Percentage Rate:** The ROMI percentage rate is 40.20%.
+- **Total Gross Profit/Loss:** The gross profit is 12,298,486.18.
 
-Interpretation:
-- Positive ROMI: The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
-- Significant Gross Profit: The substantial gross profit suggests that the business is generating a healthy margin on its sales.
+**Interpretation:**
+- **Positive ROMI:** The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
+- **Significant Gross Profit:** The substantial gross profit suggests that the business is generating a healthy margin on its sales.
 
 ![image](https://github.com/user-attachments/assets/fa6b73dc-d96c-454d-a8a8-2937f169a275)
 
@@ -56,13 +56,13 @@ Interpretation:
 
 
 ### Campaign Category Effectiveness
-- **Influencer Marketing:** Demonstrates a strong return on investment (154.29%) despite a high CPC ($11.07) and CPL ($490.31). Notably, this campaign type achieved the lowest CAC ($2,755.58) while yielding the highest ROMI. This likely stems from high total clicks (749,973) and a relatively high total leads (16,939), indicating influencer campaigns effectively drive traffic and generate leads. To optimize ROI, allocate more budget to influencer campaigns while reducing investment in less successful channels. Furthermore, the marketing team should implement strategies to increase the conversion rate from leads to orders (3014 orders from 16,939 leads).
+- **Influencer Marketing:** Demonstrates a **strong return on investment (154.29%) despite a high CPC ($11.07) and CPL ($490.31)**. Notably, this campaign type achieved the **lowest CAC ($2,755.58)** while yielding the highest ROMI. This likely stems from **high total clicks (749,973) and a relatively high total leads (16,939)**, indicating influencer campaigns effectively drive traffic and generate leads. To optimize ROI, allocate more budget to influencer campaigns while reducing investment in less successful channels. Furthermore, the marketing team should implement strategies to increase the conversion rate from **leads to orders (3014 orders from 16,939 leads)**.
 
-- **Media:** Produced moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders, demonstrating effectiveness in driving traffic, generating leads, and producing orders. While the CPC ($11.97) and CPL ($495.29) are moderate, the CAC ($3209.88) is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high ROMI (22.41%), highlighting its effectiveness.
+- **Media:** Produced **moderate results with 420,003 total clicks, 10,149 total leads, and 1566 total orders**, demonstrating effectiveness in driving traffic, generating leads, and producing orders. While the **CPC ($11.97) and CPL ($495.29)** are moderate, the **CAC ($3209.88)** is higher than influencer campaigns, indicating a higher cost per customer acquisition. Despite this, the campaign type still generated a moderate-to-high **ROMI (22.41%)**, highlighting its effectiveness.
   
-- **Search:** Generated the lowest total clicks (330,054), total leads (7107), and total orders (828), indicating weaker performance in driving traffic and generating leads. While the CPC ($10.48) and CPL ($486.90) are relatively low, suggesting lower costs for clicks and leads compared to influencer and media campaigns, the high CAC ($4179.23) reflects a significant cost to acquire customers. Due to these lower metrics, search campaigns generated a low ROMI (7.07), indicating a poor return on investment.
+- **Search:** Generated the **lowest total clicks (330,054), total leads (7107), and total orders (828)**, indicating weaker performance in driving traffic and generating leads. While the **CPC ($10.48) and CPL ($486.90)** are relatively low, suggesting lower costs for clicks and leads compared to influencer and media campaigns, the high **CAC ($4179.23)** reflects a significant cost to acquire customers. Due to these lower metrics, search campaigns generated a low **ROMI (7.07%)**, indicating a poor return on investment.
   
-- **Social:** Despite high total clicks (1,499,889) and total leads (31,384), along with the lowest CPC ($9.20) and CPL ($439.67)—indicating effective social media campaigns in driving traffic and generating leads—the low conversion rate from leads to orders (2,635 orders out of 31,384 leads) and the highest CAC ($5,236.62) have resulted in a negative ROMI (-13.68). The marketing team should conduct a thorough analysis of all social media campaigns, focusing on factors such as:
+- **Social:** Despite **high total clicks (1,499,889) and total leads (31,384), along with the lowest CPC ($9.20) and CPL ($439.67**)—indicating effective social media campaigns in driving traffic and generating leads—the low conversion rate from **leads to orders (2,635 orders out of 31,384 leads)** and the **highest CAC ($5,236.62)** have resulted in a negative **ROMI (-13.68%)**. The marketing team should conduct a thorough analysis of all social media campaigns, focusing on factors such as:
   - Which platforms were used?
   - Which platforms generate the highest order-to-lead ratios?
   - Which platforms should be prioritized based on performance?
@@ -73,8 +73,8 @@ Interpretation:
 
 
 ### Geolocation Targeting Analysis
-- **Tier 1 cities:** Demonstrate significantly better performance with a total revenue of 6,940,536, a positive gross profit of 1,810,465.27, and a strong positive ROMI of 35.29%. This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
-- **Tier 2 cities:** Show significantly lower performance with a total revenue of **4,133,766**, a negative gross profit of **-1,626,258.72**, and a negative ROMI of **-28.23%**. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
+- **Tier 1 cities:** Demonstrate significantly better performance with a **total revenue of $6,940,536** and a positive **gross profit of $1,810,465.27** with a strong positive **ROMI of 35.29%.** This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
+- **Tier 2 cities:** Show significantly lower performance with a **total revenue of $4,133,766**, a negative **gross profit of -$1,626,258.72**, and a negative **ROMI of -28.23%**. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
 
 **Recommendations:**
 - **Prioritize Tier 1 Cities:** Continue to prioritize marketing efforts in Tier 1 cities, as they have shown strong performance and profitability.
@@ -89,7 +89,7 @@ Interpretation:
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
 
-- **Top Performer:** the influencer campaign, youtube_blogger, ranks first with the highest gross profit of **11,253,496.49 and a ROMI of 277.32%**. It also achieved relatively **low CPC ($9.02), CPL ($408.61), CAC ($2,120.13)**, indicating efficient spending per click, lead generation, and customer acquisition. The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
+- **Top Performer:** the influencer campaign, youtube_blogger, ranks first with the highest **gross profit of 11,253,496.49 and a ROMI of 277.32%**. It also achieved relatively **low CPC ($9.02), CPL ($408.61), CAC ($2,120.13)**, indicating efficient spending per click, lead generation, and customer acquisition. The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
 
 - **Strong Performers:** Both the social campaign, instagram_tier1 and instagram_blogger, demonstrate strong performance, with positive gross profit at **$1,978,846.75 and $1,561,086.43**, respectively. Morever, both campaign generate relatively low CPC, CPL, and CAC. However, instagram_tier1 yield better **ROMI (77.14%)** compared to instagram_blogger **ROMI (36.75%)**. This difference could be attributed to the higher **CPC ($14.16), CPL ($606.07), and CAC ($3,861.24)** of instagram_blogger campaign. Both campaign provide a great insight. and their metrics good performance overall. Additionally, the results indicate that Instagram might be a platform to prioritize over Facebook
   
