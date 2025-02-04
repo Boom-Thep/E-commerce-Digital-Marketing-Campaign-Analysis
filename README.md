@@ -50,9 +50,9 @@ To address these challenges, it is recommended to increase investment in high-pe
 - **Performing Campaign:** Youtube_blogger has the **highest ROMI (277.32%) and gross-profit ($11.2 Million)**, indicating a significant return on investment along with Facebook_retargeting campaign strong positive **ROMI (101.50%)**. Therefore, resources should be allocated to a similar campaign like Youtube_blogger and Facebook_retargeting in the future. It is recommended to a marketing team to review these two campaigns and how are they different from other campaigns. 
 
 - **Underperforming Campaigns:** Facebook_lal has the **lowest ROMI (-88.64%)**, indicating a significant loss on this campaign. Furthermore, both Facebook_tier 1 **(-6.57%)** and Facebook_tier2 **(-26.22%)** along with Instagram_tier2 **(-33.67%)** show negative ROMIs, suggesting that these campaigns are not generating sufficient revenue to cover their marketing costs. Moreover, three campaigns from Facebook generate a **significant amount of loss (approximately $3.7 Million)**. Therefore, the marketing team should minimize funds and marketing activity on the platform to review the strategy implemented on those channels. Find the underlying issues of of the ineffective results while comparing to more successful campaign from the same platform, Facebook_retargeting campaign.
-    
-![image](https://github.com/user-attachments/assets/bf63d64a-7c58-4b7a-a729-dc3368be857a)
-![image](https://github.com/user-attachments/assets/456cd869-0cbd-4bd2-9605-d22ed5d554e8)
+
+![image](https://github.com/user-attachments/assets/d84eb8f8-d165-4dd6-8e84-631cfbba2070)
+![image](https://github.com/user-attachments/assets/0dd3c472-7ab2-4d7d-bdf8-18bbdb8dda7b)
 
 
 ### Campaign Category Effectiveness
@@ -69,7 +69,8 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Which locations (Tier 1 or Tier 2) demonstrate higher conversion rates?
   - Which channels should have their budgets minimized or paused based on further review?
 
-![image](https://github.com/user-attachments/assets/fbd26977-81f0-4aac-8161-9055aa79324c)
+![image](https://github.com/user-attachments/assets/465d1b51-619e-42f7-9fbc-1be0f122ce7f)
+![image](https://github.com/user-attachments/assets/67be5ef0-ef2a-4988-a944-a76e5a800b8d)
 
 
 ### Geolocation Targeting Analysis
@@ -84,7 +85,7 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Consider adjusting budgets and allocating more resources to Tier 1 cities.
   - Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
-![image](https://github.com/user-attachments/assets/ac478478-3a8f-4c48-83ac-eb3062ffd3a1)
+![image](https://github.com/user-attachments/assets/c0fe0409-e808-494f-90e6-d26d9e56dc62)
 
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
@@ -94,9 +95,9 @@ To address these challenges, it is recommended to increase investment in high-pe
 - **Strong Performers:** Both the social campaign, instagram_tier1 and instagram_blogger, demonstrate strong performance, with positive gross profit at **$1,978,846.75 and $1,561,086.43**, respectively. Morever, both campaign generate relatively low CPC, CPL, and CAC. However, instagram_tier1 yield better **ROMI (77.14%)** compared to instagram_blogger **ROMI (36.75%)**. This difference could be attributed to the higher **CPC ($14.16), CPL ($606.07), and CAC ($3,861.24)** of instagram_blogger campaign. Both campaign provide a great insight. and their metrics good performance overall. Additionally, the results indicate that Instagram might be a platform to prioritize over Facebook
   
 - **Underperformers:** Facebook_LAL, facebook_Tier2, and facebook_Tier1 all show negative gross profits, ranging from **-$168K to -$2.3M**, with relatively high CPC, CPL, and CAC. Notably, facebook_LAL recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706.24**. These metrics indicate major issues with the campaign. Therefore, the marketing team should investigate the listed campaigns and review the strategies used while minimizing budgets or pausing future campaign launches on Facebook.
-  
-![image](https://github.com/user-attachments/assets/be1dd594-169c-4208-94c4-8a58447122a7)
-![image](https://github.com/user-attachments/assets/909886ff-c6aa-4f82-b823-7e3967299f4c)
+
+![image](https://github.com/user-attachments/assets/03458c73-b571-4254-bbb6-00738ce9c4ad)
+![image](https://github.com/user-attachments/assets/29cd0530-fa57-46bc-9b3b-84eed239e8ea)
 
 
 ## Recommendation
@@ -104,9 +105,6 @@ To address these challenges, it is recommended to increase investment in high-pe
 - **Increase Budget:** Allocate more budget to campaigns with the highest ROMI and gross profit. Refer to the data below for insights on campaigns that achieved the highest ROMI and gross profit.
 - **Pause or Minimize Budget:** Suspend or significantly reduce budgets for underperforming campaigns, such as facebook_LAL, which reported the highest losses (ROMI: -88.64%). Similarly, reduce budgets for facebook_Tier1 and facebook_Tier2 campaigns.
 - **Reallocate Resources:** Shift resources from underperforming Facebook campaigns to high-performing YouTube and Instagram campaigns.
-- **Utilize Campaign Data:** Use the two datasets below to analyze marketing spend, revenue generated, gross profit, and ROMI for each campaign to guide budget decisions effectively.
-  
-![image](https://github.com/user-attachments/assets/29cf7a91-37ac-413b-a971-22f9ee750a9f) ![image](https://github.com/user-attachments/assets/c409d5a1-0b4f-467b-bafd-accc61fa7193)
 
 **Cost Efficiency Improvement**:
 - **Lower Cost Per Click (CPC) and Cost Per Lead (CPL):** Focus on platforms and campaigns with the most efficient CPC and CPL (e.g., YouTube and Instagram). For Facebook campaigns with high CPC ($22.01) and CPL ($1,138.94), revise targeting to exclude less engaged audiences.
