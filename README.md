@@ -68,12 +68,12 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Which platforms should be prioritized based on performance?
   - Which locations (Tier 1 or Tier 2) demonstrate higher conversion rates?
   - Which channels should have their budgets minimized or paused based on further review?
+    
+![image](https://github.com/user-attachments/assets/f2e53db9-d7a1-4f63-8782-dc30e1337d2e)
 
 ![image](https://github.com/user-attachments/assets/465d1b51-619e-42f7-9fbc-1be0f122ce7f)
 
 ![image](https://github.com/user-attachments/assets/592d53b3-1d0b-4209-b24b-0e55dfe048fc)
-
-![image](https://github.com/user-attachments/assets/f2e53db9-d7a1-4f63-8782-dc30e1337d2e)
 
 
 ### Geolocation Targeting Analysis
@@ -88,7 +88,7 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Consider adjusting budgets and allocating more resources to Tier 1 cities.
   - Explore alternative strategies or channels for reaching the target audience in Tier 2 cities.
 
-![image](https://github.com/user-attachments/assets/c0fe0409-e808-494f-90e6-d26d9e56dc62)
+![image](https://github.com/user-attachments/assets/fbfafa6e-6887-45c8-bb92-603bc3a82e49)
 
 
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
@@ -99,8 +99,8 @@ To address these challenges, it is recommended to increase investment in high-pe
   
 - **Underperformers:** Facebook_LAL, facebook_Tier2, and facebook_Tier1 all show negative gross profits, ranging from **-$168K to -$2.3M**, with relatively high CPC, CPL, and CAC. Notably, facebook_LAL recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706.24**. These metrics indicate major issues with the campaign. Therefore, the marketing team should investigate the listed campaigns and review the strategies used while minimizing budgets or pausing future campaign launches on Facebook.
 
+![image](https://github.com/user-attachments/assets/e823da17-3bfb-4d8f-9e1e-26f74dda4061)
 ![image](https://github.com/user-attachments/assets/03458c73-b571-4254-bbb6-00738ce9c4ad)
-![image](https://github.com/user-attachments/assets/29cd0530-fa57-46bc-9b3b-84eed239e8ea)
 
 
 ## Recommendation
