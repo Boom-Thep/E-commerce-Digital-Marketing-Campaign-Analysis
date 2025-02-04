@@ -70,7 +70,10 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Which channels should have their budgets minimized or paused based on further review?
 
 ![image](https://github.com/user-attachments/assets/465d1b51-619e-42f7-9fbc-1be0f122ce7f)
-![image](https://github.com/user-attachments/assets/67be5ef0-ef2a-4988-a944-a76e5a800b8d)
+
+![image](https://github.com/user-attachments/assets/592d53b3-1d0b-4209-b24b-0e55dfe048fc)
+
+![image](https://github.com/user-attachments/assets/f2e53db9-d7a1-4f63-8782-dc30e1337d2e)
 
 
 ### Geolocation Targeting Analysis
