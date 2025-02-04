@@ -42,8 +42,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 - **Positive ROMI:** The positive ROMI and ROMI percentage rate indicate that the marketing efforts have been effective in generating revenue. For every dollar spent on marketing, the company is generating approximately 40 cents in profit.
 - **Significant Gross Profit:** The substantial gross profit suggests that the business is generating a healthy margin on its sales.
 
-![image](https://github.com/user-attachments/assets/333a920d-c5ad-4d46-a000-4ae66b3a3174)
-![image](https://github.com/user-attachments/assets/fa6b73dc-d96c-454d-a8a8-2937f169a275)
+![image](https://github.com/user-attachments/assets/a46d8e18-2f0b-4f98-9d6e-08f7944f0d87)
 
 
 ### Campaign-Level ROMI Analysis
