@@ -125,7 +125,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 
 
 ## Technical Details
-- **Excel:** Excel: Cleaning data and importing it into SQL using the Windows command line.
+- **Excel:** Cleaning data and importing it into SQL using the Windows command line.
 - **SQL:** Manipulate data and calculate KPI metrics such as CPC, CPL, CAC, gross profit, and ROMI. Use the results from these calculations to perform detailed analysis. Export the raw results to Excel to develop data visualizations for better representation and decision-making.
 - **Tableau:** Creates data visualizations and dashboards to present insights and findings effectively.
 
