@@ -23,6 +23,9 @@ Insights and recommendations find will be use by marketing team to allocate fund
 - orders: Number of orders made
 - revenue: Revenue generated from the campaign
 
+![image](https://github.com/user-attachments/assets/1a711290-5eda-47d4-bd69-604abcf650fa)
+
+
 
 ## Executive Summary
 The analysis revealed that the company's campaigns generated **$42.89M in revenue** with a **ROMI of 40.20%**, indicating efficient overall performance. The YouTube Blogger campaign emerged as the 
