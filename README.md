@@ -130,7 +130,7 @@ To address these challenges, it is recommended to increase investment in high-pe
   - Notably, **facebook_LAL** recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706.24**.
   - These metrics indicate major issues with the campaign. Therefore, the marketing team should investigate the listed campaigns and review the strategies used while minimizing budgets or pausing future campaign launches on Facebook.
 
-![image](https://github.com/user-attachments/assets/e823da17-3bfb-4d8f-9e1e-26f74dda4061)
+![image](https://github.com/user-attachments/assets/b09a79fc-8534-4f92-b7b9-5257783b4ddc)
 ![image](https://github.com/user-attachments/assets/03458c73-b571-4254-bbb6-00738ce9c4ad)
 
 
