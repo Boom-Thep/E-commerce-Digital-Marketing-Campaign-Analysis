@@ -99,7 +99,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 - **Tier 1 cities:**
   - Demonstrate significantly better performance with a **total revenue of $6,940,536** and a positive **gross profit of $1,810,465** with a strong positive **ROMI of 35.29%.** This indicates that marketing efforts in Tier 1 cities are highly effective and profitable.
 - **Tier 2 cities:**
-  - Show significantly lower performance with a **total revenue of $4,133,766**, a negative **gross profit of -$1,626,258**, and a negative **ROMI of -28.23%**. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
+  - Show significantly lower performance with a **total revenue of $4,133,766**, a negative **gross profit of -$1,626,259**, and a negative **ROMI of -28.23%**. This suggests that marketing efforts in Tier 2 cities are not generating sufficient revenue to cover the marketing costs, resulting in a loss.
 
 **Recommendations:**
 - **Prioritize Tier 1 Cities:**
@@ -116,18 +116,18 @@ To address these challenges, it is recommended to increase investment in high-pe
 ### Cost Per Click (CPC), Cost Per Lead (CPL), and Customer Acquisition Cost (CAC) Analysis
 
 - **Top Performer:**
-  - the **influencer campaign, youtube_blogger**, **ranks first** with the highest **gross profit of 11,253,496.49 and a ROMI of 277.32%**. It also achieved relatively **low CPC ($9.02), CPL ($408.61), CAC ($2,120.13)**, indicating efficient spending per click, lead generation, and customer acquisition.
+  - the **influencer campaign, youtube_blogger**, **ranks first** with the highest **gross profit of 11,253,496 and a ROMI of 277.32%**. It also achieved relatively **low CPC ($9.02), CPL ($408.61), CAC ($2,120.13)**, indicating efficient spending per click, lead generation, and customer acquisition.
   - The positive metrics signify the success and effectiveness of the campaign. Therefore, marketing team should allocate more fund in similar project with influencer.
 
 - **Strong Performers:**
-  - **Both the social campaign, instagram_tier1 and instagram_blogger**, demonstrate strong performance, with positive **gross profit at $1,978,846.75 and $1,561,086.43, respectively**.
+  - **Both the social campaign, instagram_tier1 and instagram_blogger**, demonstrate strong performance, with positive **gross profit at $1,978,847 and $1,561,086, respectively**.
   - Morever, both campaign generate relatively low CPC, CPL, and CAC.
   - However, **instagram_tier1** yield better **ROMI (77.14%)** compared to **instagram_blogger ROMI (36.75%)**. This difference could be attributed to the higher **CPC ($14.16), CPL ($606.07), and CAC ($3,861.24)** of instagram_blogger campaign.
   - Both campaign provide a great insight. and their metrics good performance overall. Additionally, the results indicate that Instagram might be a platform to prioritize over Facebook
   
 - **Underperformers:**
   - **Facebook_LAL, facebook_Tier2, and facebook_Tier1** all show negative gross profits, ranging from **-$168K to -$2.3M**, with relatively high CPC, CPL, and CAC.
-  - Notably, **facebook_LAL** recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706.24**.
+  - Notably, **facebook_LAL** recorded the **highest CPC ($22.01), CPL ($1,138.94), and CAC ($8,986.19)**, resulting in the most significant **gross profit loss of -$2,341,706**.
   - These metrics indicate major issues with the campaign. Therefore, the marketing team should investigate the listed campaigns and review the strategies used while minimizing budgets or pausing future campaign launches on Facebook.
 
 ![image](https://github.com/user-attachments/assets/b09a79fc-8534-4f92-b7b9-5257783b4ddc)
