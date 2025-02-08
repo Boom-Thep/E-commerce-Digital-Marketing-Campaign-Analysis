@@ -156,7 +156,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 
 
 ## Technical Details
-- **Excel:** Data cleaning, Power Query (merging queries, removing duplicates), formatting dates to align with SQL data format, and importing data into SQL.
+- **Excel:** Data cleaning, Power Query (merging queries), formatting dates to align with SQL data format, and importing data into SQL.
 - **SQL:** Manipulate data and ensure accuracy in calculation of KPI metrics such as CPC, CPL, CAC, gross profit, and ROMI. Use the results from these calculations to perform detailed analysis.
 - **Tableau:** Creates data visualizations and dashboards to present insights and findings effectively.
 
