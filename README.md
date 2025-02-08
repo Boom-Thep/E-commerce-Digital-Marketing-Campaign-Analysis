@@ -22,7 +22,7 @@ Our analysis is based on the following data:
 These metrics help calculate key performance indicators (KPIs) to evaluate campaign effectiveness.
 - **Revenue:** This dataset includes revenue data for each campaign, with details such as entry ID, campaign date, campaign ID, and revenue generated. By analyzing this data alongside the metrics dataset, we can assess marketing spend efficiency, profitability, and KPIs like return on marketing spend.
 
-![image](https://github.com/user-attachments/assets/1a711290-5eda-47d4-bd69-604abcf650fa)
+![image](https://github.com/user-attachments/assets/21d2260a-75bf-4756-804e-9a55c0761076)
 
 
 
