@@ -35,7 +35,7 @@ To address these challenges, it is recommended to increase investment in high-pe
 ## Insights Deep-Dive
 ### Overall Business Performance
 - **Total Revenue:** The total revenue generated is **42,889,366**.
-- **Total Marketing Spend:** The total amount spent on marketing is **30,590,879**.
+- **Total Marketing Spend:** The total amount spent on marketing is **30,590,880**.
 - **ROMI:** The Return on marketing invesment is **40.20%**.
 - **Total Gross Profit/Loss:** The gross profit is **12,298,486**.
 
